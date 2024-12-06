@@ -1,0 +1,10 @@
+---
+title: "Bonjour"
+author: "Diarra NOBA"
+date: "2024-12-06"
+output: html_document
+---
+
+```{r}
+print("Bonjour Monde")
+```
